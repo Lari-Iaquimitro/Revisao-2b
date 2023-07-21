@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(121, 12, 8);
+    color: black;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: gold;
+}
+
+.content {
+    display: flex;
+    align-items: start;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 3vh;
+}
+
+.navegacao {
+    display: flex;
+    height: 50vh;
+    width: 30vh;
+}
+
+.caracter {
+    height: 50vh;
+    width: 100vh;
+
+}
+
+.c1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.c2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+img {
+    height: 15vh;
+}
+
+.img3 {
+    border-radius: 30%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 3vh;
+}
